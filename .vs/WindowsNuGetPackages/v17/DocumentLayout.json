@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\vs\\Projects\\WindowsNuGetPackages\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDCB42D-456C-44C0-ACE4-C752055835FE}|SunamoLogMessage\\SunamoLogMessage.csproj|e:\\vs\\projects\\windowsnugetpackages\\sunamologmessage\\logserviceabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDCB42D-456C-44C0-ACE4-C752055835FE}|SunamoLogMessage\\SunamoLogMessage.csproj|solutionrelative:sunamologmessage\\logserviceabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC67BF36-C932-4F24-B571-49B2351633D0}|SunamoWpf\\SunamoWpf.csproj|e:\\vs\\projects\\windowsnugetpackages\\sunamowpf\\_sunamo\\selectfrommanyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC67BF36-C932-4F24-B571-49B2351633D0}|SunamoWpf\\SunamoWpf.csproj|solutionrelative:sunamowpf\\_sunamo\\selectfrommanyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC67BF36-C932-4F24-B571-49B2351633D0}|SunamoWpf\\SunamoWpf.csproj|e:\\vs\\projects\\windowsnugetpackages\\sunamowpf\\controls\\collections\\deleteduplicitiesfilesradiobutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC67BF36-C932-4F24-B571-49B2351633D0}|SunamoWpf\\SunamoWpf.csproj|solutionrelative:sunamowpf\\controls\\collections\\deleteduplicitiesfilesradiobutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC67BF36-C932-4F24-B571-49B2351633D0}|SunamoWpf\\SunamoWpf.csproj|e:\\vs\\projects\\windowsnugetpackages\\sunamowpf\\_sunamo\\fs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC67BF36-C932-4F24-B571-49B2351633D0}|SunamoWpf\\SunamoWpf.csproj|solutionrelative:sunamowpf\\_sunamo\\fs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +55,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogServiceAbstract.cs",
+              "DocumentMoniker": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoLogMessage\\LogServiceAbstract.cs",
+              "RelativeDocumentMoniker": "SunamoLogMessage\\LogServiceAbstract.cs",
+              "ToolTip": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoLogMessage\\LogServiceAbstract.cs",
+              "RelativeToolTip": "SunamoLogMessage\\LogServiceAbstract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:25:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectFromManyHelper.cs",
+              "DocumentMoniker": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf\\_sunamo\\SelectFromManyHelper.cs",
+              "RelativeDocumentMoniker": "SunamoWpf\\_sunamo\\SelectFromManyHelper.cs",
+              "ToolTip": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf\\_sunamo\\SelectFromManyHelper.cs",
+              "RelativeToolTip": "SunamoWpf\\_sunamo\\SelectFromManyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:24:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteDuplicitiesFilesRadioButton.xaml.cs",
+              "DocumentMoniker": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf\\Controls\\Collections\\DeleteDuplicitiesFilesRadioButton.xaml.cs",
+              "RelativeDocumentMoniker": "SunamoWpf\\Controls\\Collections\\DeleteDuplicitiesFilesRadioButton.xaml.cs",
+              "ToolTip": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf\\Controls\\Collections\\DeleteDuplicitiesFilesRadioButton.xaml.cs",
+              "RelativeToolTip": "SunamoWpf\\Controls\\Collections\\DeleteDuplicitiesFilesRadioButton.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:24:14.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FS.cs",
+              "DocumentMoniker": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf\\_sunamo\\FS.cs",
+              "RelativeDocumentMoniker": "SunamoWpf\\_sunamo\\FS.cs",
+              "ToolTip": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf\\_sunamo\\FS.cs",
+              "RelativeToolTip": "SunamoWpf\\_sunamo\\FS.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:23:54.689Z",
+              "EditorCaption": ""
             }
           ]
         },

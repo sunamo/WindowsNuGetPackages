@@ -1,3 +1,6 @@
 [submodule "SunamoWpf"]
 	path = SunamoWpf
 	url = git@github.com:sunamo/SunamoWpf.git
+[submodule "SunamoLogMessage"]
+	path = SunamoLogMessage
+	url = git@github.com:sunamo/SunamoLogMessage.git
