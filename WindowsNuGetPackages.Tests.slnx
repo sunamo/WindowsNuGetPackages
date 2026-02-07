@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="SunamoWpf">
+    <Project Path="SunamoWpf\SunamoWpf\SunamoWpf.csproj" />
+    <Project Path="SunamoWpf\SunamoWpf.Tests\SunamoWpf.Tests.csproj" />
+  </Folder>
+  <Folder Name="SunamoLogMessage">
+    <Project Path="SunamoLogMessage\SunamoLogMessage\SunamoLogMessage.csproj" />
+    <Project Path="SunamoLogMessage\SunamoLogMessage.Tests\SunamoLogMessage.Tests.csproj" />
+  </Folder>
+</Solution>
