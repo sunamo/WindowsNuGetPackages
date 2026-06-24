@@ -1,4 +1,16 @@
 <Solution>
-  <Project Path="SunamoWpf\SunamoWpf\SunamoWpf.csproj" />
   <Project Path="SunamoLogMessage\SunamoLogMessage\SunamoLogMessage.csproj" />
+  <Project Path="SunamoWpf.SunamoUtils\SunamoWpf.SunamoUtils\SunamoWpf.SunamoUtils.csproj" />
+  <Project Path="SunamoWpf.Core\SunamoWpf.Core\SunamoWpf.Core.csproj" />
+  <Project Path="SunamoWpf.Converters\SunamoWpf.Converters\SunamoWpf.Converters.csproj" />
+  <Project Path="SunamoWpf.Data\SunamoWpf.Data\SunamoWpf.Data.csproj" />
+  <Project Path="SunamoWpf.Extensions\SunamoWpf.Extensions\SunamoWpf.Extensions.csproj" />
+  <Project Path="SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont\SunamoWpf.AwesomeFont.csproj" />
+  <Project Path="SunamoWpf.Logging\SunamoWpf.Logging\SunamoWpf.Logging.csproj" />
+  <Project Path="SunamoWpf.ToggleSwitch\SunamoWpf.ToggleSwitch\SunamoWpf.ToggleSwitch.csproj" />
+  <Project Path="SunamoWpf.Helpers\SunamoWpf.Helpers\SunamoWpf.Helpers.csproj" />
+  <Project Path="SunamoWpf.RegistryWin\SunamoWpf.RegistryWin\SunamoWpf.RegistryWin.csproj" />
+  <Project Path="SunamoWpf.Controls\SunamoWpf.Controls\SunamoWpf.Controls.csproj" />
+  <Project Path="SunamoWpf.Storage\SunamoWpf.Storage\SunamoWpf.Storage.csproj" />
+  <Project Path="SunamoWpf.Windows\SunamoWpf.Windows\SunamoWpf.Windows.csproj" />
 </Solution>
