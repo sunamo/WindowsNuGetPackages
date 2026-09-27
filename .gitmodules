@@ -43,3 +43,6 @@
 [submodule "SunamoWpf.Windows"]
 	path = SunamoWpf.Windows
 	url = git@github.com:sunamo/SunamoWpf.Windows.git
+[submodule "SunamoYouTube.Uwp"]
+	path = SunamoYouTube.Uwp
+	url = git@ssh.dev.azure.com:v3/sunamocz/SunamoYouTube.Uwp/SunamoYouTube.Uwp
