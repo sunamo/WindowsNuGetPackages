@@ -43,3 +43,33 @@
 [submodule "SunamoYouTube.Uwp"]
 	path = SunamoYouTube.Uwp
 	url = git@ssh.dev.azure.com:v3/sunamocz/SunamoYouTube.Uwp/SunamoYouTube.Uwp
+[submodule "SunamoWpf.Mvvm"]
+	path = SunamoWpf.Mvvm
+	url = git@github.com:sunamo/SunamoWpf.Mvvm.git
+[submodule "SunamoWf.Extensions"]
+	path = SunamoWf.Extensions
+	url = git@github.com:sunamo/SunamoWf.Extensions.git
+[submodule "SunamoWf.Tray"]
+	path = SunamoWf.Tray
+	url = git@github.com:sunamo/SunamoWf.Tray.git
+[submodule "SunamoWf.Converters"]
+	path = SunamoWf.Converters
+	url = git@github.com:sunamo/SunamoWf.Converters.git
+[submodule "SunamoWf.Helpers"]
+	path = SunamoWf.Helpers
+	url = git@github.com:sunamo/SunamoWf.Helpers.git
+[submodule "SunamoWf.Controls"]
+	path = SunamoWf.Controls
+	url = git@github.com:sunamo/SunamoWf.Controls.git
+[submodule "SunamoWpf.TreeView"]
+	path = SunamoWpf.TreeView
+	url = git@github.com:sunamo/SunamoWpf.TreeView.git
+[submodule "SunamoWpf.Cef"]
+	path = SunamoWpf.Cef
+	url = git@github.com:sunamo/SunamoWpf.Cef.git
+[submodule "SunamoWpf.Web3"]
+	path = SunamoWpf.Web3
+	url = git@github.com:sunamo/SunamoWpf.Web3.git
+[submodule "SunamoBitLockerManager"]
+	path = SunamoBitLockerManager
+	url = git@github.com:sunamo/SunamoBitLockerManager.git
