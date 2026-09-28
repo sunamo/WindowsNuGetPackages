@@ -1,0 +1,3 @@
+# LF vsude (uzivatel 2026-09-28)
+* text=auto eol=lf
+*.sln text eol=crlf

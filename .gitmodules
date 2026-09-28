@@ -1,6 +1,3 @@
-[submodule "SunamoWpf"]
-	path = SunamoWpf
-	url = git@github.com:sunamo/SunamoWpf.git
 [submodule "SunamoLogMessage"]
 	path = SunamoLogMessage
 	url = git@github.com:sunamo/SunamoLogMessage.git
@@ -43,3 +40,6 @@
 [submodule "SunamoWpf.Windows"]
 	path = SunamoWpf.Windows
 	url = git@github.com:sunamo/SunamoWpf.Windows.git
+[submodule "SunamoYouTube.Uwp"]
+	path = SunamoYouTube.Uwp
+	url = git@ssh.dev.azure.com:v3/sunamocz/SunamoYouTube.Uwp/SunamoYouTube.Uwp
