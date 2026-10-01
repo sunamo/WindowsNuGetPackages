@@ -1,15 +1,17 @@
 ---
-schema_version: 5
+schema_version: 6
 type: library
 file_count: 36
-delete_recommendation_percent: 3
-generated_date: 2026-09-30
-generated_time: 16:33:35
-github_origin: no
+avg_lines_per_file: 21
+move_to_legacy_percent: 3
+generated_date: 2026-10-01
+generated_time: 16:40:24
 github_source_url: 
-first_commit_date: 2025-03-16
-last_commit_date: 2026-09-30
-commit_count: 91
+last_build_ok: 
+last_build_date: 
+last_tests_run_date: 
+covered_lines: 
+total_lines: 
 ---
 
 ## Description
@@ -22,17 +24,14 @@ Staženo z GitHubu: **ne** — vlastní sbírka balíčků, sama je publikovaná
 
 - Ověřeno: origin je github.com/sunamo/WindowsNuGetPackages, historie od 2025-03-16, autoři smutekutek, Radek Jančík a sunamo.cz (vlastní účty), obsah tvoří submoduly z účtu sunamo; gh search neprováděn, původ je zjevně vlastní.
 
-## Doporučení ke smazání
+## Doporučení přesunu do legacy
 
-Doporučení ke smazání: **3 %** — sbírka všech Windows balíčků, aktivně udržovaná (poslední commit 2026-09-30).
+Doporučení přesunu do sunamocz-legacy.visualstudio.com: **3 %** — sbírka všech Windows balíčků, aktivně udržovaná (poslední commit 2026-09-30).
 
 - Rodič drží ukazatele na 25 submodulů, které se publikují na NuGet.
 - Smazáním by se ztratila vazba na všechny submoduly.
 
-## Historie commitů
+## Vazby na moje repa
 
-- První commit: 2025-03-16
-- Poslední commit: 2026-09-30
-- Celkem commitů: 91
-
-- Počítá se bez commitů, které jen generovaly RESUME.cs.md nebo README.md.
+- Submoduly: SunamoBitLockerManager, SunamoLogMessage, SunamoWf.Controls, SunamoWf.Converters, SunamoWf.Extensions, SunamoWf.Helpers, SunamoWf.Tray, SunamoWpf.AwesomeFont, SunamoWpf.Cef, SunamoWpf.Controls, SunamoWpf.Converters, SunamoWpf.Core, SunamoWpf.Data, SunamoWpf.Extensions, SunamoWpf.Helpers, SunamoWpf.Logging, SunamoWpf.Mvvm, SunamoWpf.RegistryWin, SunamoWpf.Storage, SunamoWpf.SunamoUtils, SunamoWpf.ToggleSwitch, SunamoWpf.TreeView, SunamoWpf.Web3, SunamoWpf.Windows, SunamoYouTube.Uwp
+- ProjectReference / PackageReference: SunamoBitLockerManager, SunamoLogMessage, SunamoWf.Helpers, SunamoWpf.Core
