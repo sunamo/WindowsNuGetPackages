@@ -76,3 +76,6 @@
 [submodule "SunamoWshShortcut"]
 	path = SunamoWshShortcut
 	url = git@github.com:sunamo/SunamoWshShortcut.git
+[submodule "SunamoUwpApps"]
+	path = SunamoUwpApps
+	url = git@github.com:sunamo/SunamoUwpApps.git
