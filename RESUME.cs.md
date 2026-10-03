@@ -33,5 +33,5 @@ Doporučení přesunu do sunamocz-legacy.visualstudio.com: **3 %** — sbírka v
 
 ## Vazby na moje repa
 
-- Submoduly: SunamoBitLockerManager, SunamoLogMessage, SunamoWf.Controls, SunamoWf.Converters, SunamoWf.Extensions, SunamoWf.Helpers, SunamoWf.Tray, SunamoWpf.AwesomeFont, SunamoWpf.Cef, SunamoWpf.Controls, SunamoWpf.Converters, SunamoWpf.Core, SunamoWpf.Data, SunamoWpf.Extensions, SunamoWpf.Helpers, SunamoWpf.Logging, SunamoWpf.Mvvm, SunamoWpf.RegistryWin, SunamoWpf.Storage, SunamoWpf.SunamoUtils, SunamoWpf.ToggleSwitch, SunamoWpf.TreeView, SunamoWpf.Web3, SunamoWpf.Windows, SunamoYouTube.Uwp
-- ProjectReference / PackageReference: SunamoBitLockerManager, SunamoLogMessage, SunamoWf.Helpers, SunamoWpf.Core
+- Submoduly: `SunamoBitLockerManager`, `SunamoLogMessage`, `SunamoWf.Controls`, `SunamoWf.Converters`, `SunamoWf.Extensions`, `SunamoWf.Helpers`, `SunamoWf.Tray`, `SunamoWpf.AwesomeFont`, `SunamoWpf.Cef`, `SunamoWpf.Controls`, `SunamoWpf.Converters`, `SunamoWpf.Core`, `SunamoWpf.Data`, `SunamoWpf.Extensions`, `SunamoWpf.Helpers`, `SunamoWpf.Logging`, `SunamoWpf.Mvvm`, `SunamoWpf.RegistryWin`, `SunamoWpf.Storage`, `SunamoWpf.SunamoUtils`, `SunamoWpf.ToggleSwitch`, `SunamoWpf.TreeView`, `SunamoWpf.Web3`, `SunamoWpf.Windows`, `SunamoYouTube.Uwp`
+- ProjectReference / PackageReference: žádné
