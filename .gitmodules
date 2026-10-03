@@ -73,3 +73,6 @@
 [submodule "SunamoBitLockerManager"]
 	path = SunamoBitLockerManager
 	url = git@github.com:sunamo/SunamoBitLockerManager.git
+[submodule "SunamoWshShortcut"]
+	path = SunamoWshShortcut
+	url = git@github.com:sunamo/SunamoWshShortcut.git

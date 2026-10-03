@@ -14,3 +14,4 @@
 - **SunamoWpf.SunamoUtils** — obecné utility pro WPF appky.
 - **SunamoWpf.ToggleSwitch** — vlastní WPF komponenta přepínače (toggle switch).
 - **SunamoWpf.Windows** — rozhraní a pomocné třídy pro práci s okny WPF appek.
+- **SunamoWshShortcut** — vytváření zástupců (.lnk) ve Windows přes Windows Script Host s pozdní vazbou.
