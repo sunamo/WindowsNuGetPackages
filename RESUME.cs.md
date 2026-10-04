@@ -1,6 +1,6 @@
 ---
 schema_version: 11
-type: my-library
+type: real-app
 category_override: none
 file_count: 36
 file_extensions: noext:5, md:4, controls:2, converters:2, extensions:2, helpers:2, awesomefont:1, cef:1, core:1, data:1, logging:1, mvvm:1, registrywin:1, slnx:1, storage:1, sunamoutils:1, toggleswitch:1, tray:1, treeview:1, uwp:1, web3:1, windows:1, yml:1
