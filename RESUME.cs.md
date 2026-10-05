@@ -1,17 +1,26 @@
 ---
-schema_version: 7
-type: my-library
+schema_version: 11
+type: real-app
+category_override: none
 file_count: 36
+file_extensions: noext:5, md:4, controls:2, converters:2, extensions:2, helpers:2, awesomefont:1, cef:1, core:1, data:1, logging:1, mvvm:1, registrywin:1, slnx:1, storage:1, sunamoutils:1, toggleswitch:1, tray:1, treeview:1, uwp:1, web3:1, windows:1, yml:1
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 21
+total_lines: 5989
+metrics_lm: 2026-10-01 16:40:24
 move_to_legacy_percent: 3
-generated_date: 2026-10-01
-generated_time: 16:40:24
-github_source_url: 
+description_updated: 2026-10-01
+links_updated: 2026-10-01
+github_source_url: not found
+origin_status: found
+origin_checked: 2026-10-01
+article_source_url: not run
+article_status: pending
+article_checked: not run
 last_build_ok: yes
 last_build_date: 2026-10-02
 last_tests_run_date: 2026-10-02
 covered_lines: 0
-total_lines: 5989
 ---
 
 ## Description
