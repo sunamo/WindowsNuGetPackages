@@ -41,6 +41,10 @@ jobs:
       run: |
         if [ -s changed.txt ]; then python -I pinp/.scripts/check-rules.py . --changed $(xargs < changed.txt); fi
 
+    - name: Scan vulnerable package versions
+      shell: bash
+      run: python -I pinp/.scripts/scan-vulnerable-packages.py .
+
     - name: Build and test
       shell: bash
       run: |
