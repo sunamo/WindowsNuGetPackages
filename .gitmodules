@@ -70,9 +70,6 @@
 [submodule "SunamoWpf.Web3"]
 	path = SunamoWpf.Web3
 	url = git@github.com:sunamo/SunamoWpf.Web3.git
-[submodule "SunamoBitLockerManager"]
-	path = SunamoBitLockerManager
-	url = git@github.com:sunamo/SunamoBitLockerManager.git
 [submodule "SunamoWshShortcut"]
 	path = SunamoWshShortcut
 	url = git@github.com:sunamo/SunamoWshShortcut.git
