@@ -25,7 +25,7 @@ covered_lines: 0
 
 ## Description
 
-Sbírkové repo NuGet balíčků pro vývoj Windows aplikací (WPF, WinForms, UWP) — 25 submodulů typu SunamoWpf.*, SunamoWf.*, SunamoLogMessage, SunamoBitLockerManager a SunamoYouTube.Uwp. Samotné repo obsahuje jen ukazatele na submoduly, slnx, Taskfile a dokumentaci (REPOS.md).
+Sbírkové repo NuGet balíčků pro vývoj Windows aplikací (WPF, WinForms, UWP) — 24 submodulů typu SunamoWpf.*, SunamoWf.*, SunamoLogMessage a SunamoYouTube.Uwp. Samotné repo obsahuje jen ukazatele na submoduly, slnx, Taskfile a dokumentaci (REPOS.md).
 
 ## Původ zdrojáků
 
@@ -42,5 +42,5 @@ Doporučení přesunu do sunamocz-legacy.visualstudio.com: **3 %** — sbírka v
 
 ## Vazby na moje repa
 
-- Submoduly: `SunamoBitLockerManager`, `SunamoLogMessage`, `SunamoWf.Controls`, `SunamoWf.Converters`, `SunamoWf.Extensions`, `SunamoWf.Helpers`, `SunamoWf.Tray`, `SunamoWpf.AwesomeFont`, `SunamoWpf.Cef`, `SunamoWpf.Controls`, `SunamoWpf.Converters`, `SunamoWpf.Core`, `SunamoWpf.Data`, `SunamoWpf.Extensions`, `SunamoWpf.Helpers`, `SunamoWpf.Logging`, `SunamoWpf.Mvvm`, `SunamoWpf.RegistryWin`, `SunamoWpf.Storage`, `SunamoWpf.SunamoUtils`, `SunamoWpf.ToggleSwitch`, `SunamoWpf.TreeView`, `SunamoWpf.Web3`, `SunamoWpf.Windows`, `SunamoYouTube.Uwp`
+- Submoduly: `SunamoLogMessage`, `SunamoWf.Controls`, `SunamoWf.Converters`, `SunamoWf.Extensions`, `SunamoWf.Helpers`, `SunamoWf.Tray`, `SunamoWpf.AwesomeFont`, `SunamoWpf.Cef`, `SunamoWpf.Controls`, `SunamoWpf.Converters`, `SunamoWpf.Core`, `SunamoWpf.Data`, `SunamoWpf.Extensions`, `SunamoWpf.Helpers`, `SunamoWpf.Logging`, `SunamoWpf.Mvvm`, `SunamoWpf.RegistryWin`, `SunamoWpf.Storage`, `SunamoWpf.SunamoUtils`, `SunamoWpf.ToggleSwitch`, `SunamoWpf.TreeView`, `SunamoWpf.Web3`, `SunamoWpf.Windows`, `SunamoYouTube.Uwp`
 - ProjectReference / PackageReference: žádné
