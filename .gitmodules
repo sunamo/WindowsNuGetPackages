@@ -76,3 +76,6 @@
 [submodule "SunamoUwpApps"]
 	path = SunamoUwpApps
 	url = git@github.com:sunamo/SunamoUwpApps.git
+[submodule "SunamoUiPreferences"]
+	path = SunamoUiPreferences
+	url = git@github.com:sunamo/SunamoUiPreferences.git
